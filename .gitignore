@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+
+# dados brutos do Kaggle (grandes demais para o GitHub)
+datatran*.csv
+equeiroz/
+*.zip
+
+# gerados pelo script 02 (podem ser refeitos)
+figuras/
+resultados.json
